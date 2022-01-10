@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/narotamji/fb-react-issues.git/static/css/main.4f2aded3.css",
+    "main.js": "/narotamji/fb-react-issues.git/static/js/main.98633b71.js",
+    "index.html": "/narotamji/fb-react-issues.git/index.html",
+    "main.4f2aded3.css.map": "/narotamji/fb-react-issues.git/static/css/main.4f2aded3.css.map",
+    "main.98633b71.js.map": "/narotamji/fb-react-issues.git/static/js/main.98633b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2aded3.css",
+    "static/js/main.98633b71.js"
+  ]
+}
