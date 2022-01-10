@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/narotamji/fb-react-issues.git/static/css/main.4f2aded3.css",
-    "main.js": "/narotamji/fb-react-issues.git/static/js/main.98633b71.js",
-    "index.html": "/narotamji/fb-react-issues.git/index.html",
-    "main.4f2aded3.css.map": "/narotamji/fb-react-issues.git/static/css/main.4f2aded3.css.map",
-    "main.98633b71.js.map": "/narotamji/fb-react-issues.git/static/js/main.98633b71.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4f2aded3.css",
-    "static/js/main.98633b71.js"
-  ]
+    "main.css": "/static/css/main.be7c6f64.chunk.css",
+    "main.js": "/static/js/main.1ec4c35a.chunk.js",
+    "main.js.map": "/static/js/main.1ec4c35a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.6c55ae3a.chunk.js": "/static/js/2.6c55ae3a.chunk.js",
+    "static/js/2.6c55ae3a.chunk.js.map": "/static/js/2.6c55ae3a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2de3c07a869735180387e49554f121b3.js": "/precache-manifest.2de3c07a869735180387e49554f121b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be7c6f64.chunk.css.map": "/static/css/main.be7c6f64.chunk.css.map"
+  }
 }
